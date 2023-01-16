@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+section{
+    margin: 0% 20% 20% 20% ;
+}
+.logo {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+margin-top: 10% ; }
+
+  #AramaSatırı{
+    display: block;
+    background-color: #eeeeee;
+    margin: 2px;
+    padding: 2px;
+    text-align: center;
+}
+#BirinciSatir{
+    display: block;
+    background-color: #7ee5da;
+    margin: 2px;
+    padding: 2px;
+    text-align: center;
+    flex-grow: 2.8;
+}
+#IkinciSatir{
+    display: block;
+    background-color: #70ccc2;
+    margin: 2px;
+    padding: 2px;
+    text-align: center;
+    flex-grow: 1;
+}
+#UcüncüSatir{
+    display: block;
+    background-color: #62b3aa;
+    margin: 2px;
+    padding: 2px;
+    text-align: center;
+    flex-grow: 2;}
+
+#OrtaSatir{
+    display:flex;
+    
+}
+
+#footer {
+
+text-align: center;
+font-size: 0.9em;
+margin-top: 1em;
+
+}
